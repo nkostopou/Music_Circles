@@ -7,3 +7,4 @@ Press the keys to compose a music.
  *Html5
  *CSS3
  *JavaScript (Paper.js, Howler.js)
+ *
