@@ -1,6 +1,5 @@
 # Music_Circles - Patatap Clone
-It's a browser sound player. <br/>
- Press the keys to compose a music.
+It's a browser sound player. Press the keys to compose a music.
 ## General info
  I've tried to mimic Patatap using only circles. <br/>
 ## Technologies
